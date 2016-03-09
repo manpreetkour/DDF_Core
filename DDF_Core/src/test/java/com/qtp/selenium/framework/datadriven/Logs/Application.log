@@ -1,0 +1,15 @@
+10/02/2016 11:40:16 devpinoyLogger Inside init() .. Initializing properties file
+10/02/2016 11:40:18 devpinoyLogger Executing Test1
+10/02/2016 11:40:18 devpinoyLogger Validating runmode for Test1 in suite SuiteA
+10/02/2016 11:40:19 devpinoyLogger Executing Test1
+10/02/2016 11:40:19 devpinoyLogger Validating runmode for Test1 in suite SuiteA
+10/02/2016 11:40:19 devpinoyLogger Skipping the test Test1 inside the suite SuiteA
+10/02/2016 11:40:19 devpinoyLogger Executing Test1
+10/02/2016 11:40:19 devpinoyLogger Validating runmode for Test1 in suite SuiteA
+10/02/2016 11:40:19 devpinoyLogger Executing Test2
+10/02/2016 11:40:19 devpinoyLogger Validating runmode for Test2 in suite SuiteA
+10/02/2016 11:40:19 devpinoyLogger Executing Test2
+10/02/2016 11:40:19 devpinoyLogger Validating runmode for Test2 in suite SuiteA
+10/02/2016 11:40:19 devpinoyLogger Skipping the test Test2 inside the suite SuiteA
+10/02/2016 11:40:19 devpinoyLogger Executing Test2
+10/02/2016 11:40:19 devpinoyLogger Validating runmode for Test2 in suite SuiteA
